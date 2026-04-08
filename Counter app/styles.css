@@ -6,6 +6,10 @@ body {
 	width: 400px;
 	height: 400px;
 	margin: 20px auto;
+	font-family: "Pixelify Sans", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
 }
 
 p {
