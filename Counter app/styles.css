@@ -16,7 +16,7 @@ body {
   font-family: "Pixelify Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
-  font-style: normal;
+  font-style: bold;
 }
 
 p {
@@ -40,7 +40,8 @@ button {
 	border-radius: 10px;
 }
 #count-btn {
-background-color: red}
+background-color: #ff0000}
 
 #save-btn {
-background-color: green}
+background-color: #44c178}
+
